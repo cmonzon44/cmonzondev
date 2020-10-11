@@ -1,0 +1,11 @@
+#imgme{
+    filter: grayscale(80%)
+}
+
+#imgme:hover{
+    filter: none;
+}
+
+i.fa:hover{
+    color: #000;
+}
