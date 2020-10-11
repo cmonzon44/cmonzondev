@@ -9,3 +9,7 @@
 i.fa:hover{
     color: #000;
 }
+
+div.customshadow.shadow-lg {
+    box-shadow: 0 10px 15px -3px rgb(189 187 187 / 37%), 0 4px 6px -2px rgba(0,0,0,.05);
+}
