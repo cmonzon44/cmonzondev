@@ -17,3 +17,7 @@ div.customshadow.shadow-lg {
 div.d-block{
     display: block ;
 }
+
+div.container{
+    overflow: hidden
+}
