@@ -21,3 +21,29 @@ div.d-block{
 div.container{
     overflow: hidden
 }
+
+
+.bganimation{
+    animation-name: backgroundColorPalette;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes backgroundColorPalette {
+    0% {
+      background: #0E131F;
+    }
+    25% {
+      background: #38405F;
+    }
+    50% {
+      background: #59546C;
+    }
+    75% {
+      background: #8B939C;
+    }
+    100% {
+      background: #A4AC96;
+    }
+  }
